@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TAI_LIEU_HOC_TAP\\ky_thuat_lap_trinh_nang_cao\\doan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29C9CE49-236B-4D6C-89E1-83EB3ED4A223}|Project\\Project.csproj|D:\\TAI_LIEU_HOC_TAP\\ky_thuat_lap_trinh_nang_cao\\doan\\project\\memberpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{29C9CE49-236B-4D6C-89E1-83EB3ED4A223}|Project\\Project.csproj|solutionrelative:project\\memberpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C9CE49-236B-4D6C-89E1-83EB3ED4A223}|Project\\Project.csproj|D:\\TAI_LIEU_HOC_TAP\\ky_thuat_lap_trinh_nang_cao\\doan\\project\\game.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{29C9CE49-236B-4D6C-89E1-83EB3ED4A223}|Project\\Project.csproj|solutionrelative:project\\game.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C9CE49-236B-4D6C-89E1-83EB3ED4A223}|Project\\Project.csproj|D:\\TAI_LIEU_HOC_TAP\\ky_thuat_lap_trinh_nang_cao\\doan\\project\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{29C9CE49-236B-4D6C-89E1-83EB3ED4A223}|Project\\Project.csproj|solutionrelative:project\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C9CE49-236B-4D6C-89E1-83EB3ED4A223}|Project\\Project.csproj|D:\\TAI_LIEU_HOC_TAP\\ky_thuat_lap_trinh_nang_cao\\doan\\project\\face.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{29C9CE49-236B-4D6C-89E1-83EB3ED4A223}|Project\\Project.csproj|solutionrelative:project\\face.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C9CE49-236B-4D6C-89E1-83EB3ED4A223}|Project\\Project.csproj|D:\\TAI_LIEU_HOC_TAP\\ky_thuat_lap_trinh_nang_cao\\doan\\project\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{29C9CE49-236B-4D6C-89E1-83EB3ED4A223}|Project\\Project.csproj|solutionrelative:project\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C9CE49-236B-4D6C-89E1-83EB3ED4A223}|Project\\Project.csproj|D:\\TAI_LIEU_HOC_TAP\\ky_thuat_lap_trinh_nang_cao\\doan\\project\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29C9CE49-236B-4D6C-89E1-83EB3ED4A223}|Project\\Project.csproj|solutionrelative:project\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C9CE49-236B-4D6C-89E1-83EB3ED4A223}|Project\\Project.csproj|D:\\TAI_LIEU_HOC_TAP\\ky_thuat_lap_trinh_nang_cao\\doan\\project\\game.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29C9CE49-236B-4D6C-89E1-83EB3ED4A223}|Project\\Project.csproj|solutionrelative:project\\game.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C9CE49-236B-4D6C-89E1-83EB3ED4A223}|Project\\Project.csproj|D:\\TAI_LIEU_HOC_TAP\\ky_thuat_lap_trinh_nang_cao\\doan\\project\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{29C9CE49-236B-4D6C-89E1-83EB3ED4A223}|Project\\Project.csproj|solutionrelative:project\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C9CE49-236B-4D6C-89E1-83EB3ED4A223}|Project\\Project.csproj|D:\\TAI_LIEU_HOC_TAP\\ky_thuat_lap_trinh_nang_cao\\doan\\project\\addfriendpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29C9CE49-236B-4D6C-89E1-83EB3ED4A223}|Project\\Project.csproj|solutionrelative:project\\addfriendpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C9CE49-236B-4D6C-89E1-83EB3ED4A223}|Project\\Project.csproj|D:\\TAI_LIEU_HOC_TAP\\ky_thuat_lap_trinh_nang_cao\\doan\\project\\contactinfopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29C9CE49-236B-4D6C-89E1-83EB3ED4A223}|Project\\Project.csproj|solutionrelative:project\\contactinfopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C9CE49-236B-4D6C-89E1-83EB3ED4A223}|Project\\Project.csproj|D:\\TAI_LIEU_HOC_TAP\\ky_thuat_lap_trinh_nang_cao\\doan\\project\\memberpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29C9CE49-236B-4D6C-89E1-83EB3ED4A223}|Project\\Project.csproj|solutionrelative:project\\memberpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.xaml",
+              "DocumentMoniker": "D:\\TAI_LIEU_HOC_TAP\\ky_thuat_lap_trinh_nang_cao\\doan\\Project\\Game.xaml",
+              "RelativeDocumentMoniker": "Project\\Game.xaml",
+              "ToolTip": "D:\\TAI_LIEU_HOC_TAP\\ky_thuat_lap_trinh_nang_cao\\doan\\Project\\Game.xaml",
+              "RelativeToolTip": "Project\\Game.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-29T07:10:18.265Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MemberPage.xaml",
+              "DocumentMoniker": "D:\\TAI_LIEU_HOC_TAP\\ky_thuat_lap_trinh_nang_cao\\doan\\Project\\MemberPage.xaml",
+              "RelativeDocumentMoniker": "Project\\MemberPage.xaml",
+              "ToolTip": "D:\\TAI_LIEU_HOC_TAP\\ky_thuat_lap_trinh_nang_cao\\doan\\Project\\MemberPage.xaml",
+              "RelativeToolTip": "Project\\MemberPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-29T04:27:10.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Face.xaml",
+              "DocumentMoniker": "D:\\TAI_LIEU_HOC_TAP\\ky_thuat_lap_trinh_nang_cao\\doan\\Project\\Face.xaml",
+              "RelativeDocumentMoniker": "Project\\Face.xaml",
+              "ToolTip": "D:\\TAI_LIEU_HOC_TAP\\ky_thuat_lap_trinh_nang_cao\\doan\\Project\\Face.xaml",
+              "RelativeToolTip": "Project\\Face.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-29T08:03:16.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\TAI_LIEU_HOC_TAP\\ky_thuat_lap_trinh_nang_cao\\doan\\Project\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Project\\MainPage.xaml",
+              "ToolTip": "D:\\TAI_LIEU_HOC_TAP\\ky_thuat_lap_trinh_nang_cao\\doan\\Project\\MainPage.xaml",
+              "RelativeToolTip": "Project\\MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-29T08:03:05.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.xaml.cs",
+              "DocumentMoniker": "D:\\TAI_LIEU_HOC_TAP\\ky_thuat_lap_trinh_nang_cao\\doan\\Project\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "Project\\Login.xaml.cs",
+              "ToolTip": "D:\\TAI_LIEU_HOC_TAP\\ky_thuat_lap_trinh_nang_cao\\doan\\Project\\Login.xaml.cs",
+              "RelativeToolTip": "Project\\Login.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T08:06:37.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "D:\\TAI_LIEU_HOC_TAP\\ky_thuat_lap_trinh_nang_cao\\doan\\Project\\Login.xaml",
+              "RelativeDocumentMoniker": "Project\\Login.xaml",
+              "ToolTip": "D:\\TAI_LIEU_HOC_TAP\\ky_thuat_lap_trinh_nang_cao\\doan\\Project\\Login.xaml",
+              "RelativeToolTip": "Project\\Login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-29T08:03:23.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Game.xaml.cs",
+              "DocumentMoniker": "D:\\TAI_LIEU_HOC_TAP\\ky_thuat_lap_trinh_nang_cao\\doan\\Project\\Game.xaml.cs",
+              "RelativeDocumentMoniker": "Project\\Game.xaml.cs",
+              "ToolTip": "D:\\TAI_LIEU_HOC_TAP\\ky_thuat_lap_trinh_nang_cao\\doan\\Project\\Game.xaml.cs",
+              "RelativeToolTip": "Project\\Game.xaml.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAqwGIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T07:13:30.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "D:\\TAI_LIEU_HOC_TAP\\ky_thuat_lap_trinh_nang_cao\\doan\\Project\\HomePage.xaml",
+              "RelativeDocumentMoniker": "Project\\HomePage.xaml",
+              "ToolTip": "D:\\TAI_LIEU_HOC_TAP\\ky_thuat_lap_trinh_nang_cao\\doan\\Project\\HomePage.xaml",
+              "RelativeToolTip": "Project\\HomePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-29T07:51:25.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddFriendPage.xaml.cs",
+              "DocumentMoniker": "D:\\TAI_LIEU_HOC_TAP\\ky_thuat_lap_trinh_nang_cao\\doan\\Project\\AddFriendPage.xaml.cs",
+              "RelativeDocumentMoniker": "Project\\AddFriendPage.xaml.cs",
+              "ToolTip": "D:\\TAI_LIEU_HOC_TAP\\ky_thuat_lap_trinh_nang_cao\\doan\\Project\\AddFriendPage.xaml.cs",
+              "RelativeToolTip": "Project\\AddFriendPage.xaml.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAuwCEAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T06:00:10.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ContactInfoPage.xaml.cs",
+              "DocumentMoniker": "D:\\TAI_LIEU_HOC_TAP\\ky_thuat_lap_trinh_nang_cao\\doan\\Project\\ContactInfoPage.xaml.cs",
+              "RelativeDocumentMoniker": "Project\\ContactInfoPage.xaml.cs",
+              "ToolTip": "D:\\TAI_LIEU_HOC_TAP\\ky_thuat_lap_trinh_nang_cao\\doan\\Project\\ContactInfoPage.xaml.cs",
+              "RelativeToolTip": "Project\\ContactInfoPage.xaml.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAgwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T06:01:00.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MemberPage.xaml.cs",
+              "DocumentMoniker": "D:\\TAI_LIEU_HOC_TAP\\ky_thuat_lap_trinh_nang_cao\\doan\\Project\\MemberPage.xaml.cs",
+              "RelativeDocumentMoniker": "Project\\MemberPage.xaml.cs",
+              "ToolTip": "D:\\TAI_LIEU_HOC_TAP\\ky_thuat_lap_trinh_nang_cao\\doan\\Project\\MemberPage.xaml.cs",
+              "RelativeToolTip": "Project\\MemberPage.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAQwBgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T05:49:21.166Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

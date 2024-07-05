@@ -1,0 +1,276 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>THACHMINHNHU</Machine>
+    <WindowsUser>ThachMinhNhu</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>0c8e0818-2269-4cb1-aa2b-ffe40d978cf4</PackageIdentityName>
+    <PackageIdentityPublisher>CN=nvluc</PackageIdentityPublisher>
+    <IntermediateOutputPath>D:\TAI_LIEU_HOC_TAP\ky_thuat_lap_trinh_nang_cao\doan\Project\obj\x86\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>D:\TAI_LIEU_HOC_TAP\ky_thuat_lap_trinh_nang_cao\doan\Project\bin\x86\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>5E4DFC2FD0BC7CD1E7E1B2B284F530127336198AD54356100CE74268378380A2</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>0c8e0818-2269-4cb1-aa2b-ffe40d978cf4_1.0.0.0_x86__e4es2htednsh8</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>0c8e0818-2269-4cb1-aa2b-ffe40d978cf4_e4es2htednsh8!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>0c8e0818-2269-4cb1-aa2b-ffe40d978cf4</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=nvluc</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\TAI_LIEU_HOC_TAP\ky_thuat_lap_trinh_nang_cao\doan\Project\bin\x86\Debug\Core\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2024-06-29T08:41:30.261</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\TAI_LIEU_HOC_TAP\ky_thuat_lap_trinh_nang_cao\doan\Project\bin\x86\Debug\Project.exe">
+      <PackagePath>entrypoint\Project.exe</PackagePath>
+      <Modified>2024-06-29T08:41:28.896</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nhu59\.nuget\packages\microsoft.bcl.asyncinterfaces\5.0.0\lib\netstandard2.0\Microsoft.Bcl.AsyncInterfaces.dll">
+      <PackagePath>Microsoft.Bcl.AsyncInterfaces.dll</PackagePath>
+      <Modified>2020-10-19T18:40:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nhu59\.nuget\packages\microsoft.toolkit.mvvm\7.1.2\lib\netstandard2.0\Microsoft.Toolkit.Mvvm.dll">
+      <PackagePath>Microsoft.Toolkit.Mvvm.dll</PackagePath>
+      <Modified>2021-11-18T22:28:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.14\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
+      <PackagePath>System.Runtime.dll</PackagePath>
+      <Modified>2022-06-10T15:24:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nhu59\.nuget\packages\system.runtime.compilerservices.unsafe\4.5.3\lib\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll">
+      <PackagePath>System.Runtime.CompilerServices.Unsafe.dll</PackagePath>
+      <Modified>2020-02-19T10:05:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.22621.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
+      <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
+      <Modified>2024-02-21T13:52:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\TAI_LIEU_HOC_TAP\ky_thuat_lap_trinh_nang_cao\doan\Project\Assets\Images\GamePicture.png">
+      <PackagePath>Assets\Images\GamePicture.png</PackagePath>
+      <Modified>2024-06-07T16:15:03.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\TAI_LIEU_HOC_TAP\ky_thuat_lap_trinh_nang_cao\doan\Project\Assets\Images\logo-fetel.png">
+      <PackagePath>Assets\Images\logo-fetel.png</PackagePath>
+      <Modified>2024-06-14T08:12:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\TAI_LIEU_HOC_TAP\ky_thuat_lap_trinh_nang_cao\doan\Project\Assets\Images\logo.png">
+      <PackagePath>Assets\Images\logo.png</PackagePath>
+      <Modified>2024-06-08T06:58:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\TAI_LIEU_HOC_TAP\ky_thuat_lap_trinh_nang_cao\doan\Project\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2024-04-27T06:44:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\TAI_LIEU_HOC_TAP\ky_thuat_lap_trinh_nang_cao\doan\Project\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2024-04-27T06:44:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\TAI_LIEU_HOC_TAP\ky_thuat_lap_trinh_nang_cao\doan\Project\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2024-04-27T06:44:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\TAI_LIEU_HOC_TAP\ky_thuat_lap_trinh_nang_cao\doan\Project\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2024-04-27T06:44:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\TAI_LIEU_HOC_TAP\ky_thuat_lap_trinh_nang_cao\doan\Project\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2024-04-27T06:44:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\TAI_LIEU_HOC_TAP\ky_thuat_lap_trinh_nang_cao\doan\Project\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2024-04-27T06:44:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\TAI_LIEU_HOC_TAP\ky_thuat_lap_trinh_nang_cao\doan\Project\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2024-04-27T06:44:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\TAI_LIEU_HOC_TAP\ky_thuat_lap_trinh_nang_cao\doan\Project\Assets\Images\health.jpg">
+      <PackagePath>Assets\Images\health.jpg</PackagePath>
+      <Modified>2024-06-08T07:42:25.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\TAI_LIEU_HOC_TAP\ky_thuat_lap_trinh_nang_cao\doan\Project\Assets\Images\pngtree-cartoon-cute-fly-png-image_2808894.jpg">
+      <PackagePath>Assets\Images\pngtree-cartoon-cute-fly-png-image_2808894.jpg</PackagePath>
+      <Modified>2024-06-14T07:51:41.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\TAI_LIEU_HOC_TAP\ky_thuat_lap_trinh_nang_cao\doan\Project\Assets\Media\click_effect-86995.mp3">
+      <PackagePath>Assets\Media\click_effect-86995.mp3</PackagePath>
+      <Modified>2024-06-12T12:05:41.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\TAI_LIEU_HOC_TAP\ky_thuat_lap_trinh_nang_cao\doan\Project\Assets\Media\game-music-loop-3-144252.mp3">
+      <PackagePath>Assets\Media\game-music-loop-3-144252.mp3</PackagePath>
+      <Modified>2024-06-12T14:27:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\TAI_LIEU_HOC_TAP\ky_thuat_lap_trinh_nang_cao\doan\Project\Assets\Media\game-music-loop-7-145285.mp3">
+      <PackagePath>Assets\Media\game-music-loop-7-145285.mp3</PackagePath>
+      <Modified>2024-06-12T13:56:31.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\TAI_LIEU_HOC_TAP\ky_thuat_lap_trinh_nang_cao\doan\Project\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
+      <Modified>2024-06-07T15:44:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\TAI_LIEU_HOC_TAP\ky_thuat_lap_trinh_nang_cao\doan\Project\bin\x86\Debug\Project.xr.xml">
+      <PackagePath>Project.xr.xml</PackagePath>
+      <Modified>2024-06-29T08:41:28.657</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\TAI_LIEU_HOC_TAP\ky_thuat_lap_trinh_nang_cao\doan\Project\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2024-06-29T08:41:28.697</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\TAI_LIEU_HOC_TAP\ky_thuat_lap_trinh_nang_cao\doan\Project\bin\x86\Debug\AddFriendPage.xbf">
+      <PackagePath>AddFriendPage.xbf</PackagePath>
+      <Modified>2024-06-29T08:41:28.697</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\TAI_LIEU_HOC_TAP\ky_thuat_lap_trinh_nang_cao\doan\Project\bin\x86\Debug\ContactInfoPage.xbf">
+      <PackagePath>ContactInfoPage.xbf</PackagePath>
+      <Modified>2024-06-29T08:41:28.697</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\TAI_LIEU_HOC_TAP\ky_thuat_lap_trinh_nang_cao\doan\Project\bin\x86\Debug\Face.xbf">
+      <PackagePath>Face.xbf</PackagePath>
+      <Modified>2024-06-29T08:41:28.697</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\TAI_LIEU_HOC_TAP\ky_thuat_lap_trinh_nang_cao\doan\Project\bin\x86\Debug\Game.xbf">
+      <PackagePath>Game.xbf</PackagePath>
+      <Modified>2024-06-29T08:41:28.697</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\TAI_LIEU_HOC_TAP\ky_thuat_lap_trinh_nang_cao\doan\Project\bin\x86\Debug\HomePage.xbf">
+      <PackagePath>HomePage.xbf</PackagePath>
+      <Modified>2024-06-29T08:41:28.697</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\TAI_LIEU_HOC_TAP\ky_thuat_lap_trinh_nang_cao\doan\Project\bin\x86\Debug\Login.xbf">
+      <PackagePath>Login.xbf</PackagePath>
+      <Modified>2024-06-29T08:41:28.699</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\TAI_LIEU_HOC_TAP\ky_thuat_lap_trinh_nang_cao\doan\Project\bin\x86\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2024-06-29T08:41:28.699</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\TAI_LIEU_HOC_TAP\ky_thuat_lap_trinh_nang_cao\doan\Project\bin\x86\Debug\MemberPage.xbf">
+      <PackagePath>MemberPage.xbf</PackagePath>
+      <Modified>2024-06-29T08:41:28.699</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.22621.0\Windows.winmd">
+      <PackagePath>WinMetadata\Windows.winmd</PackagePath>
+      <Modified>2024-02-21T16:46:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\TAI_LIEU_HOC_TAP\ky_thuat_lap_trinh_nang_cao\doan\Project\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2024-06-29T04:02:05.960</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\TAI_LIEU_HOC_TAP\ky_thuat_lap_trinh_nang_cao\doan\Project\bin\x86\Debug\Core\Project.exe">
+      <PackagePath>Project.exe</PackagePath>
+      <Modified>2024-06-29T08:41:30.247</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.31331.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.31331.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.31331.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.31331.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.31331.1</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.31331.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.31327.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.31327.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.31327.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.31327.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.31327.1</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.31327.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.33519.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.33519.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.33519.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.33519.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM64\Microsoft.VCLibs.ARM64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.33519.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.33519.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.33519.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.33519.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
